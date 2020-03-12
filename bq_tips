@@ -1,0 +1,38 @@
+
+关于Project
+
+其实关于project呢，一般就是这几个点：这个东西用干嘛的，用什么写的，难点在哪儿（因为一般都是most challenge啊或者memorable），怎么克服（跟前一点一定配套出现），（如果是多人的项目）你的个人贡献是什么。
+关 于干嘛的这个点务必画图还有举例子，这点特别重要，当然如果不幸在电面里面被问到，那就请务必把fancy的那些收起来用它的用处来概括这个东西。这个其 实跟写简历的思路很像。这是什么，这能做什么，输入是什么，输出是什么，人们用来干什么。
+I developed a media player system on Pic 32（什么东西——mediaplayer）. It is written in C and the difficult part isthe integration part since there are a lot of modules working together. To conquer it I read a lot of media player source code and talk with my TA andtried for many times（这里透露了三个点：自主学习能力，向合适的的人寻求帮助还有实验精神）and finally finish it. When I heard the music playing I am so proud of it. 适当的supporting details可以加一点点，一句话左右。
+一个常见的challenge是“totally new to it”,不过这个的克服是个很容易被challenge的东西。比如说如果你能问人，能找到资料，也有很多例子可以模仿的话，那就根本不算是challenge，毕竟大家都有要接触新东西的机会。所以呢，difficult part可以细化为“没有人问”，“没有人做过”，“很少外部资料”然后加上why，然后再说用其他两条途径克服的，这样子就可以合理避免被challenge。
+The challenge part of my project is that I am totally new to it meanwhilefew people in our team have experience in it since it is a XXXX team. Toconquer it, I tried to find some similar implementation online and blabla这个感觉。
+
+Why thiscompany/this role?
+
+别提钱，别假大空。这两条一定要避免。
+一个比较讨巧的方法是说你喜欢这个公司的产品，同时就是喜欢这个公司的特有的一些培训和policy：比如说fb的bootcamp。还有就是朋友在这里工作说这里很好= =（实在想不出来说什么的话可以用这个）。关于changethe world之类真的要慎重。。。面试官也不傻。我个人觉得从自身出发的话会比较引共鸣一些，而不是“这个公司伟大”。这个区别很微妙，而且其实很多是同一个点就看你怎么表达。比如说apple，你不能说因为iPhone市场占有率大你想work on it但是你可以说你是apple fan很喜欢它的操作什么的，然后想workon it。主观色彩蛮好的。
+关于为什么这个职位呢，我个人觉得可以从你做CS的事情的时候的主观感受来说。你可以说“我做过我觉得很喜欢，因为可以学新东西/做完之后很强的成就感”之类，记得一定加一句since或者后面接一句detail比如“when I finally see 它怎么样怎么样工作，I felt a strong sense of success”。转专业的人一定要有点相关的经验的重要性就体现在这儿，你总不能说因为CS好找工作还有赚钱多吧（虽然我知道这是true fact）但是面试的时候真的不能这么说……
+既然有比较的话其实自己的本行为什么不行也需要考虑一下。不能叫苦叫累，但是你可以说又苦又累还学不到新东西/不能make impact/想试试别的东西，差不多就是这个路子了。这个【但是】很重要哟~
+
+问面试官问题
+
+其实这一部分可以很随意，不过主要就是一条：show passion
+可以问的问题可以是：
+-      如何上手（on boarding process)
+-      dailylife
+-      日常上班干什么
+-      the thing u like best about this company
+-      next step
+
+关于未来规划：
+
+最主要的一点就是不要明确的说你要做别的。
+比如说面码农，你直接告诉人家我想做PM，这种是一个wrong answer因为你给人家一种【我招你进来然后你马上要走】这个feel。当然啦这也不是说career path不能改变，但是在说别的之前要注意两点：1. 我短时间（3-5年）内是想好好做本行的；2. 我有可能转别的，但是【不一定】
+
+在这个基础上，有两个sample 答案供参考，以码农想做PM为例：
+1. 我打算在入职之后先做一些技术积累，多了解一些行业的流程还有技术基础，然后再考虑之后的career path。比如说在5年之后做一些更comprehensive的职位，比如PM。
+2. 从long term goal来说我想做PM但是不是right now。 我觉得技术的积累非常重要，在我心中一个好的PM首先是一个好的技术人员，对技术的足够了解可以帮助我更好地coordiate。但是这也是一个比较长期的过程，对现在来说我希望能够在工作之余多对big picture和行业有一些了解。
+
+你最大的缺点/失败？
+
+翻译：你一个无伤大雅的小缺点/失败是什么？你从以前的哪个项目知道自己有这个缺点/失败？知道以后学到了什么教训？在后面哪个项目中吸取了这个教训，做了什么，取得了什么结果？
